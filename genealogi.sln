@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "genealogi", "genealogi\genealogi.csproj", "{B69FF3C3-61C4-486E-9DDE-29D22225BE63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B69FF3C3-61C4-486E-9DDE-29D22225BE63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69FF3C3-61C4-486E-9DDE-29D22225BE63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69FF3C3-61C4-486E-9DDE-29D22225BE63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69FF3C3-61C4-486E-9DDE-29D22225BE63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14DF719A-D275-4A42-92F0-C743AB551239}
+	EndGlobalSection
+EndGlobal
